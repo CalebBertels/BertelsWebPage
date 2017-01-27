@@ -1,0 +1,42 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+#center-video {
+    text-align: center;
+}
+
+#jumbotron-background-home {
+    text-align: center;
+    background-image: url("https://s30.postimg.org/w6rk3pr8h/background_Profile.jpg");
+    background-size:cover;
+}
+
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.div-center{
+    width:400px;
+    margin:0 auto;
+    text-align:left;
+}
+
+.text-color {
+    color: #FFA500;
+}
+
+
+
+
+
+
+
+
+
+
+
+
