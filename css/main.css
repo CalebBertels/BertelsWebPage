@@ -29,6 +29,20 @@ h2{
     color: #FFA500;
 }
 
+/*#calculate1{
+    width:700px;
+    max-width: 100%;
+}*/
+
+#displayGPA{
+    text-align: center;
+}
+
+#displayGPAError{
+    text-align: center;
+    color: red;
+}
+
 
 
 
